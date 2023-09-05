@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" DocDocDocDocDocDoc
+""" 0x01-Basic_authentication
 """
 from flask import Blueprint
 
